@@ -84,15 +84,3 @@ Este proyecto puede evolucionar de muchas formas, pero para mantenerlo útil deb
 ## Repositorio
 
 Proyecto en desarrollo para apoyar la gestión comercial de pequeñas empresas.
-
-## Autor
-
-Repositorio de trabajo personal / proyecto en evolución.
-
----
-
-Si querés, en el próximo paso puedo dejarte esto todavía más pulido para:
-- convertirlo en una landing page estilo GitHub con mejor branding
-- definir una stack real para el proyecto
-- armar una estructura de carpetas y README por módulos
-- preparar una versión más "profesional" con logo, screenshots y roadmap detallado
